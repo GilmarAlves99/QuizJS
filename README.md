@@ -6,7 +6,7 @@ Link : ....
 Lista :
 
 - [X] Etapa 1
-- [ ] Etapa 2
+- [X] Etapa 2
 - [ ] Etapa 3
 - [ ] Etapa 4
 
