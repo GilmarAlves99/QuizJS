@@ -33,12 +33,12 @@ body main .content {
   display: flex;
   flex-direction: column;
   width: 100%;
-  gap: 10;
+  gap: 10px;
 }
 body main .content .spnQtd {
   text-align: end;
 }
-body main .content .aswers {
+body main .content .answers {
   display: flex;
   flex-direction: column;
   gap: 5px;

@@ -33,5 +33,5 @@ export default[
             { opition: "Professor", correct: false },
             { opition: "Programador", correct: true },
         ],
-    }
+    },
 ]
