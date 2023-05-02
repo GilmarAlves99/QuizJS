@@ -8,7 +8,7 @@ Lista :
 - [X] Etapa 1
 - [X] Etapa 2
 - [X] Etapa 3
-- [ ] Etapa 4
+- [X] Etapa 4
 
 Etapas :
 
