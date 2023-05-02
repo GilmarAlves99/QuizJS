@@ -1,7 +1,7 @@
 # Quiz
 Quiz feito em Html, Js e Sass com a finalidade de praticar JS e Versionamento.
 
-Link : ....
+Link : <a href="https://gilmaralves99.github.io/QuizJS/"> QUIZ  </a>
 
 Lista :
 
